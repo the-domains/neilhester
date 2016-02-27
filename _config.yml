@@ -1,0 +1,28 @@
+name: neilhester
+favicon: null
+layout_spectrum: 0.07645858963951468
+typography_spectrum: 0.938700637081638
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#070103'
+    - '#3f2b20'
+    - '#b06852'
+    - '#5a0006'
+    - '#475b51'
+  brandStrength: 0.7070683005731553
+  lightness: 0.40140578080900013
+  saturation: 0.9374103604350239
+  rhythmicContrast: 0.37647287151776254
+purpose: []
