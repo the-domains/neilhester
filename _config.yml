@@ -1,6 +1,6 @@
 name: neilhester
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.2448
 typography_spectrum: 0.24313
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#070103'
-    - '#3f2b20'
-    - '#b06852'
-    - '#5a0006'
-    - '#475b51'
-  brandStrength: 0.8125
-  lightness: 0.375
-  saturation: 0.6875
+    - '#c4d4e3'
+    - '#514b3d'
+    - '#7e8887'
+    - '#bf4619'
+    - '#afad2e'
+  brandStrength: 0.4375
+  lightness: 0
+  saturation: 0.5625
   rhythmicContrast: 0.5
 purpose: []
